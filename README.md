@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthyxx - Arthur
 - 👀 I’m interested in learning more tecnologies
-- 🌱 I’m currently learning Java | JavaScript
+- 🌱 I’m currently learning DataBase
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 
