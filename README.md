@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Arthyxx - Arthur
-- 👀 I’m interested in learning more tecnologies
-- 🌱 I’m currently learning DataBase
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me ...
+Oie! Eu me chamo Arthur
 
 <!---
 Arthyxx/Arthyxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
