@@ -1,4 +1,5 @@
-Oie! Eu me chamo Arthur
+Oie! Eu me chamo Arthur.
+Estou me aperfeiçoando em Python e criando novos projetos.
 
 <!---
 Arthyxx/Arthyxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
