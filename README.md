@@ -2,7 +2,7 @@
 <div align="center">
   
   <samp>
-      Hello, world! :)
+      Welcome to my profile! :)
       <br>
   </samp>
 
@@ -74,9 +74,27 @@
   [![Gmail](https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthur.limag.alu.lmb@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-1e90ff?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_0tutu_/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthur-gonçalves-3957a4233/)
+</div>
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      My stats:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  
+  
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Arthyxx&theme=github-dark-blue)](https://git.io/streak-stats)
+
+  
+
   
 </div>
 
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=100&section=footer"/>
