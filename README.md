@@ -1,51 +1,93 @@
-# Hi, I'm Arthur Lima Gonçalves! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e90ff" />
+<div align="center">
+  
+  <samp>
+      Olá, mundo! :)
+      <br>
+  </samp>
 
-![Profile Picture](https://avatars.githubusercontent.com/u/14531414?s=400&u=5f8f58cd2e57b9dbd31b8bda34c6034a67e85c06&v=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=1e90ff&center=true&width=900&lines=Bem-Vindo(a)!;Me+chamo+Arthur+Lima+Gonçalves%2C;estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%2C;conhe%C3%A7a+mais+sobre+abaixo%3A)](https://git.io/typing-svg)
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Arthur+Lima+Gonçalves!+%F0%9F%91%8B;I'm+a+student+of+%22Análise+e+Desenvolvimento+de+Sistemas%22+with+strong+knowledge+in+Python%2C+Java%2C+SQL%2C+Power+BI%2C+and+Git%2FGitHub.;I’m+passionate+about+Back-End+Development%2C+Data+Analysis%2C+and+Automation;Looking+for+opportunities+in+Back-End+Development+and+Data+Analysis.)](https://github.com/Arthyxx)
+<div align="center">
+  <h3>Front-end</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
 
-## 👨‍💻 About Me
-I'm a student of *Análise e Desenvolvimento de Sistemas* at Estácio de Sá, with solid knowledge in:
+<br>
 
-- **Python** | **Java** | **SQL** | **Power BI**
-- **Back-End Development** | **Data Analysis** | **Git & GitHub** | **Linux**
+<div align="center">
+  <h3>Back-end & Databases</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+</div>
 
-I’m passionate about automating tasks and improving business insights through data. I’m actively looking for opportunities in:
-- **Back-End Development** using **Python** and **Java**
-- **Data Analysis** with **Power BI** and **SQL**
+<br>
 
-## 🌐 GitHub Stats
+<div align="center">
+  <h3>Data Science & Analysis</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+</div>
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthyxx&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=blue-green)
+<br>
 
-## 💻 Most Used Languages
+<div align="center">
+  <h3>Tools & DevOps</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthyxx&langs_count=5&theme=blue-green)
+<br>
 
-## 📅 Contributions
+<div align="center">
+  <h3>Design & UI/UX</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+<br>
 
-![Arthur's Contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=Arthyxx&theme=blue-green)
+<div align="center">
+  <h3>IDEs & Editors</h3>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+</div>
 
-## 🚀 Let’s connect:
-- [GitHub](https://github.com/Arthyxx)
-- [LinkedIn](https://linkedin.com/in/arthur-gonçalves-3957a4233)
+##
 
-## 📚 What I’m currently learning:
-- Java Development (Bootcamp)
-- Advanced SQL and Database Management
-- Power BI for Data Visualization
+<br>
 
-## 🏆 Certifications:
-- **SQL Database Specialist**, DIO — *Expected 12/2025*
-- **Power BI Analyst**, DIO — *Expected 12/2025*
-- **Python Fundamentals**, DIO — *Expected 02/2026*
+<div align="center">
+  <samp>
+    <b>
+      Como me encontrar:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-## 💼 Education:
-- **Análise e Desenvolvimento de Sistemas** (Estácio de Sá) — *01/2024 – Present*
-- **Técnico em Redes de Computadores** (EEEP Leonel de Moura Brizola) — *01/2021 – 12/2023*
+  [![Gmail](https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthur.limag.alu.lmb@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-1e90ff?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/arthurlimagoncalves/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthur-gonçalves-3957a4233/)
+  
+</div>
 
-## 💡 Skills:
-- **Programming:** Python, Java, SQL
-- **Web Development:** Django, Back-End Development
-- **Data Analysis & Visualization:** Power BI
-- **Tools:** Git, GitHub, Linux
+<br>
+
+</details>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=100&section=footer"/>
