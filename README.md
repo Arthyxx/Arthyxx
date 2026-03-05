@@ -33,6 +33,7 @@
 <div align="center">
   <h3>Data Science & Analysis</h3>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
