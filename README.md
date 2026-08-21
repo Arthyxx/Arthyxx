@@ -1,100 +1,97 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e90ff" />
-<div align="center">
-  
-  <samp>
-      Welcome to my profile! :)
-      <br>
-  </samp>
+# Arthur Lima Gonçalves
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=1e90ff&center=true&width=900&lines=Welcome!;My+name+is+Arthur+Lima+Gonçalves%2C;I'm+a+student+of+Systems+Analysis+and+Development%2C;find+out+more+below%3A)](https://git.io/typing-svg)
-</div>
+**Back-end Developer | Java & Spring Boot | Systems Analysis and Development student**
 
-<div align="center">
-  <h3>Back-end</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain-wordmark.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-</div>
+Fortaleza, CE, Brazil • Open to remote, hybrid and on-site opportunities
 
-<br>
+I am a Systems Analysis and Development student focused on back-end development, with a technical background in Computer Networks and previous experience in IT support. I build REST APIs with Java and Spring Boot and also work on freelance web projects using TypeScript, NestJS, React, Vite, Prisma and PostgreSQL.
 
-<div align="center">
-  <h3>Databases</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dbeaver/dbeaver-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebase/firebase-original.svg" />
-</div>
+I am currently looking for **Java Back-end Internship, Junior Java Developer and entry-level IT opportunities**.
 
-<br>
+## Main stack
 
-<div align="center">
-  <h3>Data Science & Analysis</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</div>
+**Back-end**
+- Java 21
+- Spring Boot
+- Spring Data JPA / Hibernate
+- Spring Security
+- JWT
+- REST APIs
+- Bean Validation
+- MapStruct
+- Maven
 
-<br>
+**Databases**
+- PostgreSQL
+- MySQL
+- SQL
 
-<div align="center">
-  <h3>Tools & DevOps</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/windows11/windows11-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-</div>
+**Web / Freelance**
+- TypeScript
+- NestJS
+- React
+- Vite
+- Prisma
 
-<br>
+**Tools & Infrastructure**
+- Git / GitHub
+- Docker / Docker Compose
+- Linux
+- Windows
+- Swagger / OpenAPI
 
-<div align="center">
-  <h3>IDEs & Editors</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-</div>
+## Featured projects
 
-##
+### [MelAPI](https://github.com/Arthyxx/MelAPI-SpringBoot)
+REST API for a honey-products platform built with **Java 21 and Spring Boot**.
 
-<br>
+Highlights:
+- Layered architecture with controllers, services, repositories, DTOs and models
+- PostgreSQL persistence with Spring Data JPA
+- Authentication with Spring Security and JWT
+- Bean Validation and exception handling
+- MapStruct mapping
+- OpenAPI / Swagger documentation
+- Docker and Docker Compose
 
-<div align="center">
-  <samp>
-    <b>
-      How to reach me:
-    </b>
-  </samp>
-  <br>
-  <br>
+### [OficinaAPI](https://github.com/Arthyxx/OficinaAPI)
+CRUD application developed during a university hackathon challenge, with the goal of delivering a working solution in approximately one day.
 
-  [![Gmail](https://img.shields.io/badge/Gmail-1e90ff?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthur.limag.alu.lmb@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-1e90ff?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_0tutu_/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-1e90ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthur-gonçalves-3957a4233/)
-</div>
-<br>
+Highlights:
+- Java 21 and Spring Boot
+- REST endpoints for users and vehicles
+- Controller, service, repository and model layers
+- Spring Data JPA / JDBC
+- Bean Validation
+- SQL database integration
+- Docker support
 
-<div align="center">
-  <samp>
-    <b>
-      My stats:
-    </b>
-  </samp>
-  <br>
-  <br>
+## Professional background
 
-  
-  
- 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Arthyxx&theme=github-dark-blue)](https://git.io/streak-stats)
+Previously worked as an **IT Support Intern**, handling more than 20 computers per day with:
+- Windows and Linux installation/configuration
+- Hardware diagnostics and component replacement
+- Network and internet troubleshooting
+- Software and driver installation
+- New workstation setup
+- Internal user support
+- Microsoft Office, especially Excel
 
-  
+I also currently provide freelance web development and basic computer maintenance services.
 
-  
-</div>
+## Education
 
+**Systems Analysis and Development — Estácio de Sá**  
+5th semester, moving into the 6th • Expected graduation: July 2027
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=100&section=footer"/>
+**Technical High School in Computer Networks — EEEP Leonel de Moura Brizola**
+
+## Languages
+
+**Portuguese:** Native  
+**English:** Strong reading and listening comprehension; intermediate conversation
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/arthur-gonçalves-3957a4233/
+- Email: arthur.limag.alu.lmb@gmail.com
